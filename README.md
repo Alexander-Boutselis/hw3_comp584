@@ -1,3 +1,5 @@
+https://alexander-boutselis.github.io/hw3_comp584/
+
 HW3 Applying Responsiveness and Table Based Design to Email with HTML and CSS
 Due Friday by 7pm Points 100 Submitting a website url
 
